@@ -2,7 +2,7 @@
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
 
 
-#Sales Analysis
+#Sales Analysis - Excel and PowerBI
 
 The first project, sales analysis is a PowerBI dashboard created from a sales data. The data had various fields such as categories, sub-categories, product, location, sales and profit.
 
