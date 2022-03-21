@@ -41,3 +41,6 @@ Cricket is considered a religion in India, probably the largest. So it only seem
 This was a challenging project, with over 5 dataset related to each other, analysing the data and creating reports on them was a task which took me quite a while. The result is an amazing interactive dashboard uploaded on my PowerBI Pro workspace where you can analyse dozens of statistics with a single click. Click on a batsman score in a pie chart to see how he performed with respect to SR, Runs, 4s and 6s and more.
 
 The project is still not complete since a dataset of this size needs justice by having more and more statistics and answering questions. I will try to update the project whenever possible.
+
+
+
