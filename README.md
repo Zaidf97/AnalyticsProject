@@ -43,4 +43,22 @@ This was a challenging project, with over 5 dataset related to each other, analy
 The project is still not complete since a dataset of this size needs justice by having more and more statistics and answering questions. I will try to update the project whenever possible.
 
 
+**#Nike Performance Analysis - Excel, Tableau and PowerBI**
+
+I recently worked on this short project, highlighting Nike's global performance across various markets and product segments. Finding the data was a hard task, since I could not find everything at a single source. Hence, I had to find data from various points, make it consistent and then run up visualisations.
+
+Key Insights from this project: Nike sportswear is the best performing product, which recorded growth even during the pandemic, when other categories suffered losses. This can be linked to the fact that many non athletes starting doing regular exercises to stay fit in the pandemic.
+
+<img width="1234" alt="Screenshot 2022-04-09 at 22 18 24" src="https://user-images.githubusercontent.com/48427733/162590302-6f7e7d1b-f853-4f19-9966-de761a450fc4.png">
+
+
+
+North America is a stagnant market, showing signs of decline. Europe and China are key market, showing strong upward trend. North America still has the largest percentage of sales but europe is quickly catching to that number.
+
+<img width="1219" alt="Screenshot 2022-04-09 at 22 18 39" src="https://user-images.githubusercontent.com/48427733/162590311-b912f228-844d-43d3-b711-dee530f59019.png">
+
+
+
+Wholesale is the best performing channel. Nike has consistently outperformed key competitors, Puma and Adidas, keeping the market leader position to itself
+<img width="1262" alt="Screenshot 2022-04-09 at 22 18 50" src="https://user-images.githubusercontent.com/48427733/162590317-af61d52f-ec3d-4b63-a223-934ed88beee8.png">
 
