@@ -62,3 +62,28 @@ North America is a stagnant market, showing signs of decline. Europe and China a
 Wholesale is the best performing channel. Nike has consistently outperformed key competitors, Puma and Adidas, keeping the market leader position to itself
 <img width="1262" alt="Screenshot 2022-04-09 at 22 18 50" src="https://user-images.githubusercontent.com/48427733/162590317-af61d52f-ec3d-4b63-a223-934ed88beee8.png">
 
+**Customer Analytics Using Python**
+
+Recently, I came across an interesting project, where Python is used for customer analytics on a variety of use cases ranging from acquisition, attrition, grouping, etc.
+
+In this project, I have tackled 3 major use cases.
+
+1. K Means Clustering (Unsupervised) to group problem types
+
+In this use case, we have used K Means algorithm to group customer problems. The data provided was a list of problems and the time/resources spent to resolve them. We classify these problems into clusters using the key data such as count, time for response, reoccurence, etc.
+
+Since K means requires you to provide the number of clusters in the beginning, and without having an idea of it, it might be challenging to identify the optinmal size. To resolve this, I used the Elbow Method to identify the optimal number of clusters.
+
+
+<img width="1192" alt="Screenshot 2022-12-25 at 13 59 01" src="https://user-images.githubusercontent.com/48427733/209469194-9a386f0b-8ca1-475f-ab4d-3e8a9368ba53.png">
+
+After this, I fit and predict my model and analyse them using certain Blox Plots.
+<img width="1100" alt="Screenshot 2022-12-25 at 13 59 12" src="https://user-images.githubusercontent.com/48427733/209469213-e78290f3-3712-44ad-af9c-5472fac288d4.png">
+
+Once the model is ready and accurate, I check how the problems in my training data has been classified into groups.
+
+Finally, I use the model to predict the groups for new incoming customer problems.
+<img width="1081" alt="Screenshot 2022-12-25 at 13 59 17" src="https://user-images.githubusercontent.com/48427733/209469251-bc9b08a8-a622-496d-9dfa-9704af2458a5.png">
+
+
+
