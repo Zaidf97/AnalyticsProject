@@ -86,4 +86,18 @@ Finally, I use the model to predict the groups for new incoming customer problem
 <img width="1081" alt="Screenshot 2022-12-25 at 13 59 17" src="https://user-images.githubusercontent.com/48427733/209469251-bc9b08a8-a622-496d-9dfa-9704af2458a5.png">
 
 
+2. Linear Regression Analysis to Identify Customer Lifetime Values for new Customers
+
+In this use case, we predict the Customer Lifetime Value CLV for new customers based on their initial purchase history.
+
+We create the model using our predictions and target training and testing data. We use r2 score to identify the accuracy.
+<img width="1224" alt="Screenshot 2022-12-25 at 14 20 59" src="https://user-images.githubusercontent.com/48427733/209469692-4b7fbcb6-2560-44d3-a1a9-8f5be12b0e15.png">
+
+
+We finally input fresh data to identify the CLV based on the model.
+<img width="956" alt="Screenshot 2022-12-25 at 14 21 08" src="https://user-images.githubusercontent.com/48427733/209469696-66837499-7e96-43f3-b09f-4dabbe49c27f.png">
+
+
+
+
 
