@@ -82,7 +82,7 @@ Check out the folder for the detailed report.
 
 
 
-Cricket is considered a religion in India, probably the largest. So it only seemed fitting to create a project on this. IPL, the Indian Premiere League is the world's largest league cricket tournament, held in India year after year. My analysis on this project ranged from analysing Batsmens', Bowlers' statistic over 10 years, the teams progress and the number of matches won/lost and the tosses as well.
+Cricket is considered a religion in India, probably the largest. So it only seemed fitting to create a project on this. IPL, the [Indian Premiere League] (https://en.wikipedia.org/wiki/Indian_Premier_League) is the world's largest league cricket tournament, held in India year after year. My analysis on this project ranged from analysing Batsmens', Bowlers' statistic over 10 years, the teams progress and the number of matches won/lost and the tosses as well.
 
 This was a challenging project, with over 5 dataset related to each other, analysing the data and creating reports on them was a task which took me quite a while. The result is an amazing interactive dashboard uploaded on my PowerBI Pro workspace where you can analyse dozens of statistics with a single click. Click on a batsman score in a pie chart to see how he performed with respect to SR, Runs, 4s and 6s and more.
 
@@ -96,7 +96,6 @@ I recently worked on this short project, highlighting Nike's global performance 
 Key Insights from this project: Nike sportswear is the best performing product, which recorded growth even during the pandemic, when other categories suffered losses. This can be linked to the fact that many non athletes starting doing regular exercises to stay fit in the pandemic.
 
 <img width="1234" alt="Screenshot 2022-04-09 at 22 18 24" src="https://user-images.githubusercontent.com/48427733/162590302-6f7e7d1b-f853-4f19-9966-de761a450fc4.png">
-
 
 
 North America is a stagnant market, showing signs of decline. Europe and China are key market, showing strong upward trend. North America still has the largest percentage of sales but europe is quickly catching to that number.
@@ -118,7 +117,7 @@ In this project, I have tackled 3 major use cases.
 
 In this use case, we have used K Means algorithm to group customer problems. The data provided was a list of problems and the time/resources spent to resolve them. We classify these problems into clusters using the key data such as count, time for response, reoccurence, etc.
 
-Since K means requires you to provide the number of clusters in the beginning, and without having an idea of it, it might be challenging to identify the optinmal size. To resolve this, I used the Elbow Method to identify the optimal number of clusters.
+Since [K means] (https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) requires you to provide the number of clusters in the beginning, and without having an idea of it, it might be challenging to identify the optinmal size. To resolve this, I used the Elbow Method to identify the optimal number of clusters.
 
 
 <img width="1192" alt="Screenshot 2022-12-25 at 13 59 01" src="https://user-images.githubusercontent.com/48427733/209469194-9a386f0b-8ca1-475f-ab4d-3e8a9368ba53.png">
@@ -134,8 +133,7 @@ Finally, I use the model to predict the groups for new incoming customer problem
 
 2. Linear Regression Analysis to Identify Customer Lifetime Values for new Customers
 
-In this use case, we predict the Customer Lifetime Value CLV for new customers based on their initial purchase history.
-
+In this use case, we predict the Customer Lifetime Value CLV for new customers based on their initial purchase history using [Linear Regression] (https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/what-is-linear-regression/)
 We create the model using our predictions and target training and testing data. We use r2 score to identify the accuracy.
 <img width="1224" alt="Screenshot 2022-12-25 at 14 20 59" src="https://user-images.githubusercontent.com/48427733/209469692-4b7fbcb6-2560-44d3-a1a9-8f5be12b0e15.png">
 
