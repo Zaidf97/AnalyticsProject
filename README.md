@@ -3,7 +3,7 @@ Workspace of my Data and Business analysis projects conducted using a wide varie
 
 ## Regional Sales Performance across 3 different data sheets - Tableau
 
-Created this simple project using Tableau where I am analysing the sales performance of a company selling various items distributed across assortments (phones, electronics, etc), Colors, Classficiations (A,B, etc).
+Created this simple project using [Tableau](https://public.tableau.com/app/profile/zaid.farooqui2160) where I am analysing the sales performance of a company selling various items distributed across assortments (phones, electronics, etc), Colors, Classficiations (A,B, etc).
 This project follows the entire Tableau life cycle, right from importing the data (3 different tables), [blending the data](https://stackoverflow.com/questions/73229666/tableau-what-is-the-different-between-relationship-and-data-blending) creating various sheets, dashboards and finally a story to look at all the crucial information at a glance.
 
 Tableau obviously provides you an opportunity to make interactive dashboards, where you can filter a sheet and see how it impacts the other sheets in the dashboards. A simple example below :
