@@ -1,8 +1,7 @@
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
 
-
-**##Regional Sales Performance across 3 different data sheets - Tableau**
+##Regional Sales Performance across 3 different data sheets - Tableau
 
 Created this simple project using Tableau where I am analysing the sales performance of a company selling various items distributed across assortments (phones, electronics, etc), Colors, Classficiations (A,B, etc).
 This project follows the entire Tableau life cycle, right from importing the data (3 different tables), [blending the data](https://stackoverflow.com/questions/73229666/tableau-what-is-the-different-between-relationship-and-data-blending) creating various sheets, dashboards and finally a story to look at all the crucial information at a glance.
