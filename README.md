@@ -23,7 +23,8 @@ In this second image, we can see that by clicking on a state (South Carolina), w
 
 ***Story 2***
 
-![3](https://user-images.githubusercontent.com/48427733/212545183-844e4446-b47a-423b-97e8-c4e0dd2c02f7.png)
+![4](https://user-images.githubusercontent.com/48427733/212546481-4f31bf01-2c88-4897-bdf6-a832f9960524.png)
+
 In the second dash of the story, we look performance across the time period, in this case on a weekly basis. Top KPI charts give you the sales and inventory while the graph on the top left looks at performance of assortments. Key insights can be drawn in this case, such as the sales of phones has increased in the later weeks. I have added trend lines to point out the future direction of sales, indicating phones to overtake and keep increasing more than the other 2 assortments.
 
 The bottom dashboard is an important one. The Demand Planning Dashboard tells you the sales vs average inventory on hand throughout the weeks. This data can be granulated by adding item IDs, States, classification depending on the use case.
@@ -33,9 +34,11 @@ The parabolic shape created in the demand planning dashboard is the forecast of 
 ![5](https://user-images.githubusercontent.com/48427733/212545690-5778802d-2f77-4f13-b94a-f3085270b3fb.png)
 
 In this dash, I have added a week slider, where you can check out the performance at a particular week/month. Again, being interactive the dashboard gives you the snapshot of all the graphs at a particular week just by changing the slider.
-![7](https://user-images.githubusercontent.com/48427733/212545903-92f09004-645b-48df-aee5-c92ccea743e2.png)
+
 
 ***Story 3***
+
+![7](https://user-images.githubusercontent.com/48427733/212545903-92f09004-645b-48df-aee5-c92ccea743e2.png)
 
 The last dashboard in my story focuses on each item ID. The top KPI dash gives key information, the bottom left dash, Item performance by Week, gives sales values by classification across the weeks and the final graph is a scatter plot of sales vs average inventory on hand. I have created clusters in this data to better understand the different categories. Items having low sales but high inventory on hand are not good for business and they can be removed, focus should be on items giving high sales and a similar or higher inventory on hand.
 
