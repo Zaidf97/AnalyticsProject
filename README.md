@@ -48,7 +48,7 @@ In the above image, we can notice the number of cluster changes depending on the
 
 
 
-**Sales Analysis - Excel and PowerBI**
+## Sales Analysis - Excel and PowerBI
 
 Check out the folder for the detailed report.
 
@@ -68,7 +68,7 @@ Secondly, I have divided the report into various categories, the first one listi
 This dashboard helps the user identify the top performing states, the highest grossing products and categories and the season where the business booms.
 
 
-**#IPL Matches Analysis - Excel and PowerBI**
+## IPL Matches Analysis - Excel and PowerBI
 
 Check out the folder for the detailed report.
 <img width="1050" alt="Screenshot 2022-02-20 at 19 30 02" src="https://user-images.githubusercontent.com/48427733/154858125-1ce3e15e-712a-4c10-81d6-65ad3b3e7b16.png">
@@ -89,7 +89,7 @@ This was a challenging project, with over 5 dataset related to each other, analy
 The project is still not complete since a dataset of this size needs justice by having more and more statistics and answering questions. I will try to update the project whenever possible.
 
 
-**#Nike Performance Analysis - Excel, Tableau and PowerBI**
+## Nike Performance Analysis - Excel, Tableau and PowerBI
 
 I recently worked on this short project, highlighting Nike's global performance across various markets and product segments. Finding the data was a hard task, since I could not find everything at a single source. Hence, I had to find data from various points, make it consistent and then run up visualisations.
 
@@ -108,7 +108,7 @@ North America is a stagnant market, showing signs of decline. Europe and China a
 Wholesale is the best performing channel. Nike has consistently outperformed key competitors, Puma and Adidas, keeping the market leader position to itself
 <img width="1262" alt="Screenshot 2022-04-09 at 22 18 50" src="https://user-images.githubusercontent.com/48427733/162590317-af61d52f-ec3d-4b63-a223-934ed88beee8.png">
 
-**Customer Analytics Using Python**
+## Customer Analytics Using Python
 
 Recently, I came across an interesting project, where Python is used for customer analytics on a variety of use cases ranging from acquisition, attrition, grouping, etc.
 
