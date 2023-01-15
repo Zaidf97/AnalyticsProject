@@ -2,14 +2,14 @@
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
 
 
-#Regional Sales Performance across 3 different data sheets - Tableau
+**Regional Sales Performance across 3 different data sheets - Tableau**
 
 Created this simple project using Tableau where I am analysing the sales performance of a company selling various items distributed across assortments (phones, electronics, etc), Colors, Classficiations (A,B, etc).
 This project follows the entire Tableau life cycle, right from importing the data (3 different tables), [blending the data](https://stackoverflow.com/questions/73229666/tableau-what-is-the-different-between-relationship-and-data-blending) creating various sheets, dashboards and finally a story to look at all the crucial information at a glance.
 
 Tableau obviously provides you an opportunity to make interactive dashboards, where you can filter a sheet and see how it impacts the other sheets in the dashboards. A simple example below :
 
-Story 1
+***Story 1***
 
 ![1](https://user-images.githubusercontent.com/48427733/212544891-8118ab21-0024-4307-9528-82773f62c305.png)
 In the image above, you can see I have used the Geomap as a filter. The Geomap itself gives information on the sales and store velocity (Sales/ number of stores in that state). Store velocity is a better measure of sales performance rather than absolute value.
@@ -21,6 +21,7 @@ Moreover, another dashboard gives sales performance across assortments and class
 
 In this second image, we can see that by clicking on a state (South Carolina), we can see the data for only that state. Sales, inventory, stock % and more are updated.
 
+***Story 2***
 
 ![3](https://user-images.githubusercontent.com/48427733/212545183-844e4446-b47a-423b-97e8-c4e0dd2c02f7.png)
 In the second dash of the story, we look performance across the time period, in this case on a weekly basis. Top KPI charts give you the sales and inventory while the graph on the top left looks at performance of assortments. Key insights can be drawn in this case, such as the sales of phones has increased in the later weeks. I have added trend lines to point out the future direction of sales, indicating phones to overtake and keep increasing more than the other 2 assortments.
@@ -34,7 +35,7 @@ The parabolic shape created in the demand planning dashboard is the forecast of 
 In this dash, I have added a week slider, where you can check out the performance at a particular week/month. Again, being interactive the dashboard gives you the snapshot of all the graphs at a particular week just by changing the slider.
 ![7](https://user-images.githubusercontent.com/48427733/212545903-92f09004-645b-48df-aee5-c92ccea743e2.png)
 
-
+***Story 3***
 
 The last dashboard in my story focuses on each item ID. The top KPI dash gives key information, the bottom left dash, Item performance by Week, gives sales values by classification across the weeks and the final graph is a scatter plot of sales vs average inventory on hand. I have created clusters in this data to better understand the different categories. Items having low sales but high inventory on hand are not good for business and they can be removed, focus should be on items giving high sales and a similar or higher inventory on hand.
 
