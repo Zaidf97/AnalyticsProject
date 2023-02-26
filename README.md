@@ -38,7 +38,7 @@ This story gives a glimpse into popularity of songs by their keys and genres. Th
 In the Rock Genre, the most popular songs are in the key of F# and G with almost 92% of the songs in the 4/4 time signature, the most common one.
 
 
-## Regional Sales Performance across 3 different data sheets - Tableau
+## [Regional Sales Performance across 3 different data sheets - Tableau](https://public.tableau.com/views/SalesCourse/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 Created this simple project using [Tableau](https://public.tableau.com/app/profile/zaid.farooqui2160) where I am analysing the sales performance of a company selling various items distributed across assortments (phones, electronics, etc), Colors, Classficiations (A,B, etc).
 This project follows the entire Tableau life cycle, right from importing the data (3 different tables), [blending the data](https://stackoverflow.com/questions/73229666/tableau-what-is-the-different-between-relationship-and-data-blending) creating various sheets, dashboards and finally a story to look at all the crucial information at a glance.
