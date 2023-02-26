@@ -1,7 +1,7 @@
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
 
-## [Spotify Music Data - Tableau] (https://public.tableau.com/views/SpotifyDash_16771858113360/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## [Spotify Music Data - Tableau](https://public.tableau.com/views/SpotifyDash_16771858113360/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 Being an avid music listener and playing the guitar for as long as I could remember, it is a surprise I didn't pick this project earlier. I found this dataset as part of another Python project to analyse and viusalise data, however I thought it could be a good fit for a tableau project.
 
 The data contains various fields from a Spotify Datset, including the track name, artists, genres, key of the song, Major/minor mode and some significant measures such as duration, popularity, loudness, tempo, liveness etc. 
