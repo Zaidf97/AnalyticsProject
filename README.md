@@ -1,6 +1,43 @@
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
 
+## Spotify Music Data - Tableau
+Being an avid music listener and playing the guitar for as long as I could remember, it is a surprise I didn't pick this project earlier. I found this dataset as part of another Python project to analyse and viusalise data, however I thought it could be a good fit for a tableau project.
+
+The data contains various fields from a Spotify Datset, including the track name, artists, genres, key of the song, Major/minor mode and some significant measures such as duration, popularity, loudness, tempo, liveness etc. 
+I created several dashboard to present the data, specially the split by popular genres and made a story with relevant visualisations grouped up.
+
+Since the dataset was huge in size, slowing down the system, I took a random sample extract of the dataset which boiled down the data to 1000 rows.
+
+***Story 1***
+
+![Screenshot 2023-02-26 at 12 53 21](https://user-images.githubusercontent.com/48427733/221408845-d36a6e87-53d2-47c6-81e6-c4fb9046bfef.png)
+While I don't really agree with the 'most popular' songs in the list (although that is my personal bias, and fortunately data has no bias), this visualiastion is a simple search list to find your favourite songs/artists using a parameter search box.
+
+***Story 2***
+
+![Screenshot 2023-02-26 at 13 05 32](https://user-images.githubusercontent.com/48427733/221409418-8814fa9b-87e1-4963-aa27-f47bd080795f.png)
+This story takes in a couple of visualisations centered around genres and keys. I have used interactive filters to help deep dive into a specific genre. The top left graph lists down the genres with the most number of songs in them. The second one describes the keys used in those songs.
+Thus filtering on a genre in the top left graph will tell you the most popular keys used in those songs. 
+Similarly the bottom right graphs reduces to the list of popular songs in that genre.
+
+The bottom left graph gives the average duration in these genres.
+![Screenshot 2023-02-26 at 13 10 50](https://user-images.githubusercontent.com/48427733/221409671-5950ac1b-b768-4d4a-9f43-9efb864ebb57.png)
+
+
+Doing a simple analysis here, we can infer that in our sample, Blues has the most number of songs with the most popular keys being C and D with an average duration of 250 seconds, with Seven Nation Army taking the top song (looks like they forgot S.R.V. or B.B King)
+
+***Story 3***
+![Screenshot 2023-02-26 at 13 11 05](https://user-images.githubusercontent.com/48427733/221409699-00a29af5-2e82-4d4b-b91a-3acde9757678.png)
+
+
+This story gives a glimpse into popularity of songs by their keys and genres. The songs in A are the most popular with Rap being the most popular genre (yikes).
+
+![Screenshot 2023-02-26 at 13 19 37](https://user-images.githubusercontent.com/48427733/221410092-c0cb8af3-c0e4-4f7f-b029-f23fd53c0d51.png)
+
+In the Rock Genre, the most popular songs are in the key of F# and G with almost 92% of the songs in the 4/4 time signature, the most common one.
+
+
 ## Regional Sales Performance across 3 different data sheets - Tableau
 
 Created this simple project using [Tableau](https://public.tableau.com/app/profile/zaid.farooqui2160) where I am analysing the sales performance of a company selling various items distributed across assortments (phones, electronics, etc), Colors, Classficiations (A,B, etc).
