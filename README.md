@@ -1,8 +1,52 @@
-Hi There! I am Zaid. I am a business student at [EDHEC Business School](https://www.edhec.edu/en), currently in France. 
-I am passionate about data and using data to solve complex business problems. My experience working at <b>L'Oréal </b> <i>(Paris, France) </i> and <b>Amazon</b> <i>(Luxembourg) </i> has given me some strong business analysis skills, where I solved an array of consumers problems, both on the FMCG client facing side as well as the supply chain optimization side.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<h1> 👋 Hello there! I'm Zaid.</h1> 
+
+### About Me!
+- &#127891; : Business Student at [EDHEC Business School](https://www.edhec.edu/en), 7th best business school in Europe
+- &#128187; : Experienced Business/Data Analyst. My passion lies in the world of data and leveraging it to tackle intricate business challenges.
+- &#128295;: My skills include Advanced Excel, Python, SQL, PowerBI, Tableau, AWS Suite, Redshift DBs, Java, C++, Quicksight, Qliksense, Atlassian Suite and more!
+- &#127928; : In my free time, I like to play music, create my own and cover some of my favourite artists.
+- &#9749; : I love brewing my own coffee using several different methods and trying out local flavours.
+
+<div id="badges" align = "center">
+  <a href = "https://www.linkedin.com/in/zaid-zafar-farooqui-46b49b124/" >
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href = "https://www.instagram.com/what_waitforit_up/">
+  <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
+</div>
+
+### My Experiences:
+<img src = "https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Oréal_logo.svg" width = 250> 
+<p><li>Intened as a <em> Global Business Analyst </em> at L'Oréal, working for more than 10 brands in 8 countries</li></p>
+<p><li>Analysed sales data, created reports, viz, suggestions for senior management</li></p>
+<p><li>Worked on the front lines, ensuring customer satisfaction</li></p>
+<p><li>Created <em> data driven strategies </em> for the retail partners to increase penetration in new markets and retention</li></p>
+
+<br>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width = 250>
+<p><li>Intened as a <em> Business Analyst </em> at Amazon EU HQ. Worked for Amazon Transportation Services, responsible for your timely delivery of packages </li></p>
+<p><li>Analysed operation data to create visualizations in Tableau and AWS Quicksight, business process improvements and automated reports for more than 60 stakeholders </li></p>
+<p><li> Automated several complex manual process using Python to improve time efficiency and save time </li></p>
+<p><li> Automated several complex manual process using Python to improve time efficiency and save time </li></p>
+<p><li> Developed automated ETL pipelines to generate daily business KPI reports </li></p>
 
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="A cool animated GIF">
+<br>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/8/8d/Amadeus_%28CRS%29_Logo.svg" width = 250>
+<p><li>Worked as an Analyst and Product Mananger at Amadeus, India</li></p>
+<p><li>Managed a legacy project to convert older applications into a new robust, secure system using Java </li></p>
+<br>
+
+
+### My Projects
+add a table here
 
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
