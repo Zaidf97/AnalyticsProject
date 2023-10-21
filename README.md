@@ -1,10 +1,8 @@
-Hi There! I am Zaid. I am a business student at [EDHEC Business School] (https://www.edhec.edu/en), currently in France. 
-I am passionate about data and using data to solve complex business problems. My experience working at L'Oréal (Paris, France) and Amazon (Luxembourg) has given me some strong business analysis skills, where I solved an array of consumers problems, both on the FMCG client facing side as well as the supply chain optimization side.
+Hi There! I am Zaid. I am a business student at [EDHEC Business School](https://www.edhec.edu/en), currently in France. 
+I am passionate about data and using data to solve complex business problems. My experience working at <b>L'Oréal </b> <i>(Paris, France) </i> and <b>Amazon</b> <i>(Luxembourg) </i> has given me some strong business analysis skills, where I solved an array of consumers problems, both on the FMCG client facing side as well as the supply chain optimization side.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
-</div>
 
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="A cool animated GIF">
 
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
