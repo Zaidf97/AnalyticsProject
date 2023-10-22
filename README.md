@@ -46,7 +46,13 @@
 
 
 ### My Projects
-add a table here
+
+| Project Name | About | Skills Used | Link |
+| -------- | -------- | -------- | -------- |
+| Amusement Park Machine Learning Model | Built a logistic regression model to predict the customer satisfaction given a variety of variables |Python | here |
+| Spotify Data Vizualisation | Created an extended interactive dashboard on Tableau using Spotify data to find trends in the songs and create descriptive vizualizations | Tableau, Excel |here |
+| IPL Match Data Analysis | Dashboards on PowerBI to analyse Indian Premier League data and create interactive viz around scores, wins, losses, runs and more over a period of 10 years | Excel, PowerBI, PowerQuery |here |
+
 
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
