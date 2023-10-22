@@ -7,6 +7,7 @@
 
 ### About Me!
 - &#127891; : Business Student at [EDHEC Business School](https://www.edhec.edu/en), 7th best business school in Europe
+- &#128213; : Masters student in the Grande Ecole program (Master in Management) with a speciailisation in Analytics
 - &#128187; : Experienced Business/Data Analyst. My passion lies in the world of data and leveraging it to tackle intricate business challenges.
 - &#128295;: My skills include Advanced Excel, Python, SQL, PowerBI, Tableau, AWS Suite, Redshift DBs, Java, C++, Quicksight, Qliksense, Atlassian Suite and more!
 - &#127928; : In my free time, I like to play music, create my own and cover some of my favourite artists.
@@ -24,14 +25,14 @@
 
 ### My Experiences:
 <img src = "https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Oréal_logo.svg" width = 250> 
-<p><li>Intened as a <em> Global Business Analyst </em> at L'Oréal, working for more than 10 brands in 8 countries</li></p>
+<p><li>Interned as a <em> Global Business Analyst </em> at L'Oréal, working for more than 10 brands in 8 countries</li></p>
 <p><li>Analysed sales data, created reports, viz, suggestions for senior management</li></p>
 <p><li>Worked on the front lines, ensuring customer satisfaction</li></p>
 <p><li>Created <em> data driven strategies </em> for the retail partners to increase penetration in new markets and retention</li></p>
 
 <br>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width = 250>
-<p><li>Intened as a <em> Business Analyst </em> at Amazon EU HQ. Worked for Amazon Transportation Services, responsible for your timely delivery of packages </li></p>
+<p><li>Interned as a <em> Business Analyst </em> at Amazon EU HQ. Worked for Amazon Transportation Services, responsible for your timely delivery of packages </li></p>
 <p><li>Analysed operation data to create visualizations in Tableau and AWS Quicksight, business process improvements and automated reports for more than 60 stakeholders </li></p>
 <p><li> Automated several complex manual process using Python to improve time efficiency and save time </li></p>
 <p><li> Automated several complex manual process using Python to improve time efficiency and save time </li></p>
