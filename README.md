@@ -49,13 +49,21 @@
 
 | Project Name | About | Skills Used | Link |
 | -------- | -------- | -------- | -------- |
-| Amusement Park Machine Learning Model | Built a logistic regression model to predict the customer satisfaction given a variety of variables |Python | here |
-| Spotify Data Vizualisation | Created an extended interactive dashboard on Tableau using Spotify data to find trends in the songs and create descriptive vizualizations | Tableau, Excel |here |
-| IPL Match Data Analysis | Dashboards on PowerBI to analyse Indian Premier League data and create interactive viz around scores, wins, losses, runs and more over a period of 10 years | Excel, PowerBI, PowerQuery |here |
+| Amusement Park Machine Learning Model | Built a logistic regression model to predict the customer satisfaction given a variety of variables |Python | [Here](https://github.com/Zaidf97/AnalyticsProject/blob/main/ModelsOfMarketing/amusementModel.ipynb) |
+| Spotify Data Vizualisation | Created an extended interactive dashboard on Tableau using Spotify data to find trends in the songs and create descriptive vizualizations | Tableau, Excel | [Here](https://public.tableau.com/views/SpotifyDash_16771858113360/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link) |
+| IPL Match Data Analysis | Dashboards on PowerBI to analyse Indian Premier League data and create interactive viz around scores, wins, losses, runs and more over a period of 10 years | Excel, PowerBI, PowerQuery |[Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/IPLAnalysis) |
+| Sales Performance Analysis | Interactive dashboard on Tableau using a standard dataset, creating different kinds of stories, geomaps, KPI charts, interactive filters and more | Excel, PowerBI, PowerQuery |[Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/IPLAnalysis) |
 
 
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
+
+## [Amusement Park Machine Learning Project - Python](https://github.com/Zaidf97/AnalyticsProject/blob/main/ModelsOfMarketing/amusementModel.ipynb)
+As part of my current coursework in Analytics, I have taken up several python based projects. One such project was to create an optimal machine learning model using a given dataset where we can estimate the overall score given by consumers to an amusement park based on factors such as price, wait time, distance, number of kids and more.
+I used the statsmodel.api library to create a log regression model and I achieved an R-squared value of 82.2%
+
+<img width="962" alt="Screenshot 2023-10-22 at 11 09 18" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/a66735d1-3c1e-4956-97e9-8b061b7a3234">
+
 
 ## [Spotify Music Data - Tableau](https://public.tableau.com/views/SpotifyDash_16771858113360/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 Being an avid music listener and playing the guitar for as long as I could remember, it is a surprise I didn't pick this project earlier. I found this dataset as part of another Python project to analyse and viusalise data, however I thought it could be a good fit for a tableau project.
