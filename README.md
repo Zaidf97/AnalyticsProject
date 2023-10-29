@@ -11,7 +11,7 @@
 - &#128187; : Experienced Business/Data Analyst. My passion lies in the world of data and leveraging it to tackle intricate business challenges.
 - &#128295;: My skills include Advanced Excel, Python, SQL, PowerBI, Tableau, AWS Suite, Redshift DBs, Java, C++, Quicksight, Qliksense, Atlassian Suite and more!
 - &#127928; : In my free time, I like to play music, create my own and cover some of my favourite artists.
-- &#9749; : I love brewing my own coffee using several different methods and trying out local flavours.
+- &#9749; : I love brewing my own coffee and trying out local flavours.
 
 <div id="badges" align = "center">
   <a href = "https://www.linkedin.com/in/zaid-zafar-farooqui-46b49b124/" >
