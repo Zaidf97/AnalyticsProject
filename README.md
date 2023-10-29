@@ -35,7 +35,6 @@
 <p><li>Interned as a <em> Business Analyst </em> at Amazon EU HQ. Worked for Amazon Transportation Services, responsible for your timely delivery of packages </li></p>
 <p><li>Analysed operation data to create visualizations in Tableau and AWS Quicksight, business process improvements and automated reports for more than 60 stakeholders </li></p>
 <p><li> Automated several complex manual process using Python to improve time efficiency and save time </li></p>
-<p><li> Automated several complex manual process using Python to improve time efficiency and save time </li></p>
 <p><li> Developed automated ETL pipelines to generate daily business KPI reports </li></p>
 
 
