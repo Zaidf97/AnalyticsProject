@@ -108,13 +108,20 @@ In the Rock Genre, the most popular songs are in the key of F# and G with almost
 This is a basic project created using SQL, where I am analysis data from a retail store to identify the high value consumers, consumers who purchase unique products and combination of items bought often by consumers, thus giving an introduction to market basket analysis.
 
 
+
 <img width="943" alt="Screenshot 2023-10-31 at 14 08 57" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/9af35535-7b81-4ebe-b6e5-8c6eb5e93f08">
+
+
 This query creates a view so that common data can be accessed easily without creating the column multiple times.
 
 <img width="864" alt="Screenshot 2023-10-31 at 14 09 28" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/4e816a96-9443-4975-84fe-f65ff1b90e38">
+
+
 This subquery tells us how many unique products were purchased by the consumer.
 
 <img width="936" alt="Screenshot 2023-10-31 at 14 10 34" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/36512609-3feb-4d17-bb2e-6bb91c8ddfa5">
+
+
 This query tells us which products are commonly purchased together by the consumers.
 
 ## [Regional Sales Performance across 3 different data sheets - Tableau](https://public.tableau.com/views/SalesCourse/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
