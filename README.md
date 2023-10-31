@@ -6,7 +6,7 @@
 <h1> 👋 Hello there! I'm Zaid.</h1> 
 
 ### About Me!
-- &#127891; : Business Student at [EDHEC Business School](https://www.edhec.edu/en), 7th best business school in Europe
+- &#127891; : Business Student at [EDHEC Business School](https://www.edhec.edu/en), ranked 7th best management school.
 - &#128213; : Masters student in the Grande Ecole program (Master in Management) with a specialization in Analytics
 - &#128187; : Experienced Business/Data Analyst. My passion lies in the world of data and leveraging it to tackle intricate business challenges.
 - &#128295;: My skills include Advanced Excel, Python, SQL, PowerBI, Tableau, AWS Suite, Redshift DBs, Java, C++, Quicksight, Qliksense, Atlassian Suite and more!
