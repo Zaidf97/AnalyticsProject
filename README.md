@@ -51,6 +51,7 @@
 | -------- | -------- | -------- | -------- |
 | Amusement Park Machine Learning Model | Built a logistic regression model to predict the customer satisfaction given a variety of variables |Python | [Here](https://github.com/Zaidf97/AnalyticsProject/blob/main/ModelsOfMarketing/amusementModel.ipynb) |
 | Spotify Data Vizualisation | Created an extended interactive dashboard on Tableau using Spotify data to find trends in the songs and create descriptive vizualizations | Tableau, Excel | [Here](https://public.tableau.com/views/SpotifyDash_16771858113360/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link) |
+| Online Store Analysis SQL | Created basic MySQL queries to analyse the online store data and solve questions | SQL, Excel | [Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/MySQLProjects) |
 | IPL Match Data Analysis | Dashboards on PowerBI to analyse Indian Premier League data and create interactive viz around scores, wins, losses, runs and more over a period of 10 years | Excel, PowerBI, PowerQuery |[Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/IPLAnalysis) |
 | Statistics Using Python | Several statistical model such as regression, ANOVA, ANCOVA, Moderation, Mediation and more | Python |[Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/ModelsOfMarketing) |
 | Sales Performance Analysis | Interactive dashboard on Tableau using a standard dataset, creating different kinds of stories, geomaps, KPI charts, interactive filters and more | Excel, PowerBI, PowerQuery |[Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/IPLAnalysis) |
@@ -102,6 +103,19 @@ This story gives a glimpse into popularity of songs by their keys and genres. Th
 
 In the Rock Genre, the most popular songs are in the key of F# and G with almost 92% of the songs in the 4/4 time signature, the most common one.
 
+
+## Retail Store Analysis - SQL
+This is a basic project created using SQL, where I am analysis data from a retail store to identify the high value consumers, consumers who purchase unique products and combination of items bought often by consumers, thus giving an introduction to market basket analysis.
+
+
+<img width="943" alt="Screenshot 2023-10-31 at 14 08 57" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/9af35535-7b81-4ebe-b6e5-8c6eb5e93f08">
+This query creates a view so that common data can be accessed easily without creating the column multiple times.
+
+<img width="864" alt="Screenshot 2023-10-31 at 14 09 28" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/4e816a96-9443-4975-84fe-f65ff1b90e38">
+This subquery tells us how many unique products were purchased by the consumer.
+
+<img width="936" alt="Screenshot 2023-10-31 at 14 10 34" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/36512609-3feb-4d17-bb2e-6bb91c8ddfa5">
+This query tells us which products are commonly purchased together by the consumers.
 
 ## [Regional Sales Performance across 3 different data sheets - Tableau](https://public.tableau.com/views/SalesCourse/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
