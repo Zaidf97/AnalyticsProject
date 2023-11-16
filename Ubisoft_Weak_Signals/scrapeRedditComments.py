@@ -4,9 +4,9 @@ import datetime
 import csv
 
 #authorized codes, remove when uploading/sharing
-reddit_read_only = praw.Reddit(client_id="cO4JkXCN6BLQJXc-HiUwZg",		 # your client id
-							client_secret="v7UIZkC1oNqvoJBAHxf4zFzm_y5OvQ",	 # your client secret
-							user_agent="CollegeScraperProject")	
+reddit_read_only = praw.Reddit(client_id="#",		 # your client id
+							client_secret="#",	 # your client secret
+							user_agent="#")	
 
 
 post = reddit_read_only.submission(url='https://www.reddit.com/r/Games/comments/175du38/blizzard_feels_hellish_heat_as_fans_complain/')
