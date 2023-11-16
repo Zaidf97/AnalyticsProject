@@ -49,6 +49,7 @@
 
 | Project Name | About | Skills Used | Link |
 | -------- | -------- | -------- | -------- |
+| Ubisoft Weak Signals Detection | Created a project to scrape data from Reddit, analyse it using NLP and present relevant results |Python, Market Analysis, Visualizations, Consumer Psychology | [Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/Ubisoft_Weak_Signals) |
 | Amusement Park Machine Learning Model | Built a logistic regression model to predict the customer satisfaction given a variety of variables |Python | [Here](https://github.com/Zaidf97/AnalyticsProject/blob/main/ModelsOfMarketing/amusementModel.ipynb) |
 | Spotify Data Vizualisation | Created an extended interactive dashboard on Tableau using Spotify data to find trends in the songs and create descriptive vizualizations | Tableau, Excel | [Here](https://public.tableau.com/views/SpotifyDash_16771858113360/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link) |
 | IMDB Analysis using SQL | Created MySQL queries to analyse the IMDB Dataset spread across 6 different sheets | SQL, Excel | [Here](https://github.com/Zaidf97/AnalyticsProject/tree/main/MySQLProjects) |
