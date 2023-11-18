@@ -61,6 +61,22 @@
 # AnalyticsProject
 Workspace of my Data and Business analysis projects conducted using a wide variety of tools
 
+## [Ubisoft Weak Signals - Python, SPSS](https://github.com/Zaidf97/AnalyticsProject/tree/main/Ubisoft_Weak_Signals)
+During this academic project, I mainly learnt how to conduct NLP on textual data, to tokenize them, clean and process them and eventually use them to create wordclouds of relevant data, to understand the key discussion topics in the community.
+
+NLP Tokenization
+<img width="952" alt="Screenshot 2023-11-18 at 15 14 31" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/50b69210-01a3-41f4-8474-cee885f6946a">
+
+<br>
+<br>
+Building wordclouds
+<img width="749" alt="Screenshot 2023-11-18 at 15 14 35" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/1c8c3809-1bd8-45dc-b444-dbd2cd3a4e0d">
+
+Building wordclouds
+<img width="960" alt="Screenshot 2023-11-18 at 15 14 46" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/be5c079a-0d4a-44ac-9a87-a05c9a1501f4">
+
+
+
 ## [Amusement Park Machine Learning Project - Python](https://github.com/Zaidf97/AnalyticsProject/blob/main/ModelsOfMarketing/amusementModel.ipynb)
 As part of my current coursework in Analytics, I have taken up several python based projects. One such project was to create an optimal machine learning model using a given dataset where we can estimate the overall score given by consumers to an amusement park based on factors such as price, wait time, distance, number of kids and more.
 I used the statsmodel.api library to create a log regression model and I achieved an R-squared value of 82.2%
