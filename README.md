@@ -67,8 +67,6 @@ During this academic project, I mainly learnt how to conduct NLP on textual data
 NLP Tokenization
 <img width="952" alt="Screenshot 2023-11-18 at 15 14 31" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/50b69210-01a3-41f4-8474-cee885f6946a">
 
-<br>
-<br>
 Building wordclouds
 <img width="749" alt="Screenshot 2023-11-18 at 15 14 35" src="https://github.com/Zaidf97/AnalyticsProject/assets/48427733/1c8c3809-1bd8-45dc-b444-dbd2cd3a4e0d">
 
